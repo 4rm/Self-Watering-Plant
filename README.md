@@ -10,3 +10,4 @@ Arduino code and circuitry for a self watering plant
 * [Rotation Sensor](https://www.amazon.com/gp/product/B00AFCKGZW/ref=od_aui_detailpages02?ie=UTF8&psc=1)
 * [12V Power Supply](https://www.amazon.com/gp/product/B00VM292AO/ref=od_aui_detailpages01?ie=UTF8&psc=1)
 * [3.5mm Food Grade Tubing](https://www.amazon.com/gp/product/B01AUSRXS8/ref=od_aui_detailpages00?ie=UTF8&psc=1)
+* [Self Priming Pump](https://www.robotgeek.com/robotgeek-pump-small)
